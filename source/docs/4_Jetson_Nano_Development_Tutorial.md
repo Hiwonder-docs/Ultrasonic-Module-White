@@ -8,7 +8,7 @@
 
 When wiring the ultrasonic module, connect the positive and negative pins of the module to the pins of the Raspberry Pi. Connect the TRIG pin to GPIO22 and the ECHO pin to GPIO24.
 
-<img class="common_img" src="../_static/media/chapter_1/section_4/media/image4.png" style="width:600px" />
+<img class="common_img" src="../_static/media/chapter_1/section_4/media/image4.png" style="width:700px" />
 
 > [!NOTE]
 >
