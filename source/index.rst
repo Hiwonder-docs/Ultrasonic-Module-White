@@ -16,4 +16,4 @@ Ultrasonic Module (White)
    docs/3_Raspberry_Pi_Development_Tutorial.md
    docs/4_Jetson_Nano_Development_Tutorial.md
    docs/Appendix.md
-   Download <https://www.hiwonder.hk/collections/sensor/products/ultrasonic-senso-hiwonder-robot-sensor-compatible-with-arduino>
+   Download <https://drive.google.com/drive/folders/1ioVqBKJmPJEZHAV2h88enO5-GGd2oqkA?usp=sharing>
